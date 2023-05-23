@@ -1,0 +1,23 @@
+.each-transaction-container {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid #cbd5e1;
+}
+.div-transaction-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 80%;
+}
+.each-transaction {
+  color: #d7dfe9;
+  font-size: 14px;
+  margin-left: 10px;
+}
+.delete-button {
+  border: 0;
+  background-color: transparent;
+}
+.delete-image {
+  height: 20px;
+}
